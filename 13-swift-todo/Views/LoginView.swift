@@ -24,6 +24,11 @@ struct LoginView: View {
                 
                 // Login Form
                 Form {
+                    if !viewModel.errorMessage.isEmpty {
+                        Text(viewModel.errorMessage)
+                            .foregroundColor(Color.red)
+                    }
+                    
                     TextField("Email Address", text: $viewModel.email)
                         .textFieldStyle(RoundedBorderTextFieldStyle())
                         .autocapitalization(.none)
@@ -32,7 +37,7 @@ struct LoginView: View {
                         .textFieldStyle(RoundedBorderTextFieldStyle())
                     
                     TLButton(title: "Log In", background: .blue) {
-                        // Attempt log in
+                        viewModel.login()
                     }
                     .padding()
 
