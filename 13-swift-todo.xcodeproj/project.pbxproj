@@ -120,10 +120,10 @@
 				6403DDF52A6A788E00E681F8 /* MainView.swift */,
 				64A951C42A6AF16A0090295C /* ProfileView.swift */,
 				64A951C62A6AF1790090295C /* ToDoListView.swift */,
+				64A951CE2A6C173C0090295C /* ToDoListItemView.swift */,
 				64A951C82A6C169F0090295C /* NewItemView.swift */,
 				64A951CA2A6C16EC0090295C /* LoginView.swift */,
 				64A951CC2A6C17280090295C /* RegisterView.swift */,
-				64A951CE2A6C173C0090295C /* ToDoListItemView.swift */,
 				64A951E42A6C25D30090295C /* HeaderView.swift */,
 				64A951E62A6E41160090295C /* TLButton.swift */,
 			);
@@ -136,10 +136,10 @@
 				64A951D42A6C17CB0090295C /* MainViewViewModel.swift */,
 				64A951D62A6C17DD0090295C /* ProfileViewViewModel.swift */,
 				64A951D82A6C17EA0090295C /* ToDoListViewViewModel.swift */,
+				64A951E22A6C185F0090295C /* ToDoListItemViewViewModel.swift */,
 				64A951DC2A6C182D0090295C /* NewItemViewViewModel.swift */,
 				64A951DE2A6C183C0090295C /* LoginViewViewModel.swift */,
 				64A951E02A6C184D0090295C /* RegisterViewViewModel.swift */,
-				64A951E22A6C185F0090295C /* ToDoListItemViewViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";

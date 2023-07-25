@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>94330229922-c6ivkgk1hdkg7hdpph4chuj5ksmmpa11.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.94330229922-c6ivkgk1hdkg7hdpph4chuj5ksmmpa11</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCGjIDL626WXODHzlzLPInMWZ2_CpCwKeU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>94330229922</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ai.cherrypick.-3-swift-todo</string>
+	<key>PROJECT_ID</key>
+	<string>todo-69b28</string>
+	<key>STORAGE_BUCKET</key>
+	<string>todo-69b28.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:94330229922:ios:c3d796d2e3f76fb5da33fb</string>
+</dict>
+</plist>
